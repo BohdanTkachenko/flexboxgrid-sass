@@ -1,5 +1,7 @@
 Flexbox Grid Sass
 ===========
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/BohdanTkachenko/flexboxgrid-sass.svg)](https://greenkeeper.io/)
 This work is an adaptation from the original [Flexbox Grid](http://flexboxgrid.com/) created by @kristoferjoseph.
 
 Grid based on the `flex` display property. [Check the documentation](http://hugeinc.github.io/flexboxgrid-sass)
